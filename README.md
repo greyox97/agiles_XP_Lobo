@@ -1,7 +1,7 @@
 # Resolución problema del lobo usando metodología XP
 
 * **Planning**
-  - On-Site Customer (Nathaly Simbaña)
+  - On-Site Customer (Nathaly Simba)
     - Tareas: Historias de Usuario, plan de Iteración.
 
   - Tracker (Santiago Salazar)
