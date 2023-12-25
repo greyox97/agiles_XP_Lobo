@@ -18,5 +18,5 @@ El observador/jugador interactúa con los personajes del juego para poder mover 
 3. Se ejecuta la acción y se actualiza el estado del juego.
 #### Puntos a Considerar:
 - El jugador/observador puede moverse solo.
-- El observador/jugador debe llevar solo un personaje (lobo, caperuza o uvas).
+- El jugador/observador puede llevar solo un personaje (lobo, caperuza o uvas).
 - Cada interacción está sujeta a las reglas predefinidas del juego.  
