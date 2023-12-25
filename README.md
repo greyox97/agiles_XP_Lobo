@@ -7,7 +7,7 @@
   - Tracker (Santiago Salazar)
     - Tareas: Backlog (Listado de requerimientos y seguimiento del proyecto)
 
-* **Design y Coding**
+* **Design & Coding**
   - Programmers (Paúl Román, Kevin Revelo)
     - Tareas: Diagrama de clases y diagrama de casos de uso, código
 
