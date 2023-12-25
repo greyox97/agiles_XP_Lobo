@@ -23,7 +23,7 @@ En esta iteración, el resultado serán los documentos de diseño que nos ayuden
 2 horas
 
 ## Iteración 3
-A partir de los documentos de diseño, en esta iteración, el resultado será un programa funcional por consola que realice el juego del lobo.
+A partir de los documentos de diseño, en esta iteración, el resultado será un programa funcional por consola que muestre el juego del lobo.
 
 ### Artefactos
 - Programación de la primera y segunda historia de usuario.
