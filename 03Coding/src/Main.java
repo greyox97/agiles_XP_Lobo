@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         String elementToMove;
         System.out.println("############## Reglas #####################");
-        System.out.print("Debes transportar un lobo, Caperucita Roja y un racimo de uvas en una embarcación a través de un río. Ten en cuenta que solo puedes llevar a uno de ellos a la vez, y está prohibido dejar solos en cualquier momento a: \n - Caperucita y el lobo \n - Caperucita y las uvas\n");
+        System.out.print("Debes transportar un lobo (L), Caperucita Roja (C) y un racimo de uvas (U) en una embarcación a través de un río. Ten en cuenta que solo puedes llevar a uno de ellos a la vez, y está prohibido dejar solos en cualquier momento a: \n - Caperucita y el lobo \n - Caperucita y las uvas\n");
         while(!game.isGameOver){
             game.printState();
             System.out.print("Ingrese el elemento a transportar: ");
