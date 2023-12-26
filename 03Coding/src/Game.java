@@ -43,6 +43,9 @@ public class Game {
             throw new Error("No se encuentra ese elemento");
         }
     }
+    public boolean checkIfPlayerWon(){
+        return arrival.contains(actors.get(0)) && arrival.contains(actors.get(1)) & arrival.contains(actors.get(2));
+    }
     private boolean haveWrongCombinations(List<String> list) {
         return list.containsAll(wrongCombinations.get(0)) || list.containsAll(wrongCombinations.get(1));
     }
